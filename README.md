@@ -677,23 +677,14 @@ graph LR
 <details>
 <summary>🏆 Exam Exemption Policy</summary>
 
-**Path 1: Exam Exemption (Traditional)**
-
-Qualify by:
-1. Submitting **all 10 required labs on time**
-2. Scoring **8/8 on at least 8 required labs**
-3. Minimum average of **7.0/8 across required labs**
-
-**Result:** Skip exam, receive full 20 exam points
-
-**Path 2: Bonus Labs Replace Exam**
+**Path 1: Bonus Labs Replace Exam**
 
 Complete **both Lab 11 AND Lab 12** with passing scores:
 - No exam requirement
 - Bonus points replace the 20 exam points
 - Must still complete all 10 required labs
 
-**Path 3: Maximum Score Strategy**
+**Path 2: Maximum Score Strategy**
 
 Combine all components:
 - Complete 10 required labs (80 pts)
@@ -754,8 +745,8 @@ Total: 80/100 = B (cannot exceed 80% without exam/bonus)
 **Scenario 3: Labs + Bonus (No Exam)**
 ```
 Required Labs: 75/80 points
-Bonus Lab 11: 12/12 points
-Bonus Lab 12: 10/10 points
+Bonus Lab 11: 10/10 points
+Bonus Lab 12: 12/12 points
 Total: 97/100 = A (bonus labs replace exam)
 ```
 
