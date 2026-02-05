@@ -1,14 +1,13 @@
-\## Goal What does this PR accomplish? 
+## Goal What does this PR accomplish? 
 
-\## Changes What was modified? 
+## Changes What was modified? 
 
-\## Testing How was it verified? 
+## Testing How was it verified? 
 
-\## Checklist 
+## Checklist 
 
-\- \[ ] Clear, descriptive PR title 
+- [ ] Clear, descriptive PR title 
 
-\- \[ ] Documentation/README updated (if needed) 
+- [ ] Documentation/README updated (if needed) 
 
-\- \[ ] No secrets or large temporary files committed
-
+- [ ] No secrets or large temporary files committed
